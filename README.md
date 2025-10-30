@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/0a3b5925-268d-4523-b69f-d47c954231a4
+**URL**: https://nest-satya-hospital.lovable.app/
 
 ## How can I edit this code?
 
